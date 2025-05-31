@@ -24,6 +24,8 @@ I have made my first projects with Python and started learning C and Java.
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
 </div>
 
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+
 
 ### 📫 How to reach me
 
