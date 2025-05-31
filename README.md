@@ -17,10 +17,10 @@ I have made my first projects with Python and started learning C and Java.
 - Projects for freelance clients.
 
 ### 🌱 I’m learning
-'''
+
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) 
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) 
-'''
+
 
 
 ### 📫 How to reach me
