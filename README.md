@@ -20,7 +20,7 @@ I have made my first projects with Python and started learning C and Java.
 
 <div display="flex">
   <img src="https://img.shields.io/badge/Java-blue" alt="Java"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Java?style=for-the-badge&logo=Java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
 </div>
 
