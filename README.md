@@ -15,16 +15,10 @@ I have made my first projects with Python and started learning C and Java.
 
 ### 📫 How to reach me
 
-<div display="flex">
-  <a href="https://www.linkedin.com/in/bryan-stoltzenburg-283796357/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
-
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/bryan-stoltzenburg-283796357/)
 
 ### 🧠 Credits
 
 Thank you Harvard University for teaching me the fundamentals of computer science with your CS50 courses!
 <br> 
-Course taken on [![edX](https://img.shields.io/badge/edX-02262B?logo=edx&logoColor=fff)](#)
+Course taken on [![edX](https://img.shields.io/badge/edX-02262B?logo=edx&logoColor=fff)](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science?index=product&queryId=4ebaa89a74188fffe984713e1c912900&position=1)
