@@ -21,7 +21,10 @@ I have made my first projects with Python and started learning C and Java.
   </a>
 </div>
 
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/bryan-stoltzenburg-283796357/)
+
 ### 🧠 Credits
 
 Thank you Harvard University for teaching me the fundamentals of computer science with your CS50 courses!
+<br> 
 Course taken on [![edX](https://img.shields.io/badge/edX-02262B?logo=edx&logoColor=fff)](#)
